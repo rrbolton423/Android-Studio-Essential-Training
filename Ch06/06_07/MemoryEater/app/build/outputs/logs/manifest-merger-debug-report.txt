@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5ee8d160825d4ac817a1f9125fdc5f0e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e820884f71c03622ea357285eae7757/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/4e759ae9cdc70b3750c650f7cc0451f1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/47b077de805dbe86492ef17db114fbba/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/aa051a8a7edb9a9c289e4deac77ce969/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d8f511155ff723b47565d60a54abcd2d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ff9d72389d7c5fdba94d64962a826320/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94abcf7b4b8dcef51d9b59a50f1939ef/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3634a9eb1268022e55566ae93c3b41ac/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5ee8d160825d4ac817a1f9125fdc5f0e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5ee8d160825d4ac817a1f9125fdc5f0e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e820884f71c03622ea357285eae7757/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e820884f71c03622ea357285eae7757/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/4e759ae9cdc70b3750c650f7cc0451f1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/4e759ae9cdc70b3750c650f7cc0451f1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/47b077de805dbe86492ef17db114fbba/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/47b077de805dbe86492ef17db114fbba/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/aa051a8a7edb9a9c289e4deac77ce969/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/aa051a8a7edb9a9c289e4deac77ce969/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d8f511155ff723b47565d60a54abcd2d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d8f511155ff723b47565d60a54abcd2d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ff9d72389d7c5fdba94d64962a826320/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ff9d72389d7c5fdba94d64962a826320/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94abcf7b4b8dcef51d9b59a50f1939ef/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94abcf7b4b8dcef51d9b59a50f1939ef/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3634a9eb1268022e55566ae93c3b41ac/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3634a9eb1268022e55566ae93c3b41ac/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.david.tests.MainActivity
+ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5ee8d160825d4ac817a1f9125fdc5f0e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5ee8d160825d4ac817a1f9125fdc5f0e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e820884f71c03622ea357285eae7757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8e820884f71c03622ea357285eae7757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/4e759ae9cdc70b3750c650f7cc0451f1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/4e759ae9cdc70b3750c650f7cc0451f1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/47b077de805dbe86492ef17db114fbba/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/47b077de805dbe86492ef17db114fbba/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/aa051a8a7edb9a9c289e4deac77ce969/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/aa051a8a7edb9a9c289e4deac77ce969/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d8f511155ff723b47565d60a54abcd2d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d8f511155ff723b47565d60a54abcd2d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ff9d72389d7c5fdba94d64962a826320/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ff9d72389d7c5fdba94d64962a826320/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94abcf7b4b8dcef51d9b59a50f1939ef/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94abcf7b4b8dcef51d9b59a50f1939ef/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3634a9eb1268022e55566ae93c3b41ac/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3634a9eb1268022e55566ae93c3b41ac/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5ee8d160825d4ac817a1f9125fdc5f0e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romellbolton/Downloads/Ex_Files_AndroidStudio_EssT_Upd/Exercise Files/Ch06/06_07/MemoryEater/app/src/main/AndroidManifest.xml
